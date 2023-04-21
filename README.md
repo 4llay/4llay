@@ -1,7 +1,6 @@
 ### Bem vindo! :)
 <hr>
 
-<div>
 <a href="https://github.com/4llay">
   <picture>
     <source
@@ -12,7 +11,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=4llay&show_icons=true"
       media="(prefers-color-scheme: light, (prefers-color-scheme: no-preference)"      
     />
-    <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=4llay&show_icons=true"/> 
+    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=4llay&show_icons=true"/> 
   </picture>
   
   <picture>
@@ -24,6 +23,5 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=4llay&layout=compact"
       media="(prefers-color-scheme: light, (prefers-color-scheme: no-preference)"      
     />
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4llay&layout=compact"/> 
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4llay&layout=compact"/> 
   </picture>
-  </div>
