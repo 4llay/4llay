@@ -1,6 +1,7 @@
 ### Bem vindo! :)
 <hr>
 
+/*
 <a href="https://github.com/4llay">
   <picture>
     <source
@@ -24,6 +25,7 @@
     />
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4llay&layout=compact"/> 
   </picture>
+*/
 
 ### Atualmente aprendendo...
 
